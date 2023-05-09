@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://lins-2655.github.io/Daniel-Lins/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://lins-2655.github.io/Daniel-Lins/page-sitemap.xml</loc>
+		<loc>/page-sitemap.xml</loc>
 		<lastmod>2023-05-08T23:24:58+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
